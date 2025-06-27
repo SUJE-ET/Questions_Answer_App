@@ -53,11 +53,3 @@ A dynamic **Q\&A platform** built using **Flask**, **HTML**, **Bootstrap**, and 
 | Version Ctrl | Git & GitHub         |
 
 ---
-
-## 📸 Screenshots
-
-> *Add screenshots here if available*
-
----
-
-## 📂 Project Structure
